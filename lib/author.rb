@@ -1,5 +1,5 @@
 class Author 
-  attr_accessor :anme 
+  attr_accessor :name 
   
   
 end 
